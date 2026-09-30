@@ -1,14 +1,18 @@
 ## Hi there 👋 Welcome to My GitHub!
-I'm pursing a BS/MS at Worcester Polytechnic Institute (WPI), studying Computer Science for my bachelor's and Artificial Intelligence for my master's.
+- I'm Matthew Montero. Matt is fine!
+- Pursuing a B.S./M.S. in Computer Science and Artificial Intelligence at Worcester Polytechnic Institute (WPI).
+- In search of summer 2027 internships and full-time opportunities across data engineering, data science, AI/ML, and software engineering.
+- Professional interests lie in developing AI that matches reliability and safety with growing efficiency that meet user and stakeholder needs.
 
 ### My interests:
-- Artificial Intelligence / Machine Learning
-- Music (I love shoegaze)
-- Photography
-- Gaming
-- Football (soccer). I follow the Premier League and support Newcastle United ⚫⚪
+- 🧠 Artificial Intelligence / 🤖 Machine Learning
+- 🛹 Skateboarding - 2 months!
+- 🎧 Music - I love shoegaze
+- ⚔️ Gaming - I love Slay the Spire too much...
+- 📸 Photography - I have a Sony A6000
+- ⚽ Soccer. I follow the Premier League and support Newcastle United ⚫⚪
 
-I'm currently working on my own portfolio website. And this summer, I'm taking some time to study and program more ML projects.
+I'm currently working on my own portfolio website.
 
 ## My Links!
 - [LinkedIn](https://www.linkedin.com/in/matt-montero/)
